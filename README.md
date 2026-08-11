@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Consider donating to <a href="https://github.com/Patricklumowa">Patricklumowa</a>, the original author of PatPlacer:</strong><br>
+  <h1><strong>Consider donating to <a href="https://github.com/Patricklumowa">Patricklumowa</a>, the original author of PatPlacer:</strong><h1><br>
   <a href="https://ko-fi.com/S6S51LLDMK"><img src="https://cdn.prod.website-files.com/5c14e387dab576fe667689cf/670f5a0172b90570b1c21dab_kofi_logo.avif" alt="ko-fi"></a>
 </p>
 
