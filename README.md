@@ -53,7 +53,7 @@ PatPlacer for OpenPlace is a Browser extension designed for artists and communit
 
 ## 🚀 Installation
 
-1. **Download** the latest release from the [Releases](https://github.com/Patricklumowa/Pat-Placer/releases) section
+1. **Download** the latest release from the [Releases](https://github.com/nikos3194/OpenPlace-Pat-Placer/releases) section
 
 2. **Extract** the ZIP file to a folder on your computer
 
