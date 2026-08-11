@@ -36,7 +36,7 @@ PatPlacer for OpenPlace is a Browser extension designed for artists and communit
 - **Anchor System** — Click anywhere on the canvas to set your placement origin
 - **Template Overlay** — See exactly where your art will go before placing
 - **Draft Overlay** — Visualize queued pixels in real-time
-- **Tile-Accurate Positioning** — Works with wplace's tile coordinate system
+- **Tile-Accurate Positioning** — Works with openplace's tile coordinate system
 
 ### ⚡ Batch Operations
 - **Smart Batching** — Queue hundreds of pixels at once
@@ -65,7 +65,7 @@ PatPlacer for OpenPlace is a Browser extension designed for artists and communit
    - Click **Load unpacked**
    - Select the extracted `extension` folder
 
-5. **Navigate to wplace.live**
+5. **Navigate to openplace.live**
    - The PatPlacer panel will appear automatically
    - Or click the extension icon to toggle
 
@@ -96,7 +96,7 @@ Edge Detection (optional)
      ↓
 Post-Processing (posterize, mode filter, simplify, erode)
      ↓
-Quantization/Dithering (map to wplace palette)
+Quantization/Dithering (map to openplace palette)
      ↓
 Ready to Place!
 ```
@@ -105,7 +105,7 @@ Ready to Place!
 
 ## ⚠️ Disclaimer
 
-PatPlacer is a **visualization and drafting tool**. It does not bypass any rate limits or automate actual pixel placement beyond what the wplace.live interface allows. Use responsibly and respect community guidelines.
+PatPlacer is a **visualization and drafting tool**. It does not bypass any rate limits or automate actual pixel placement beyond what the openplace.live interface allows. Use responsibly and respect community guidelines.
 
 ---
 
