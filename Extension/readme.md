@@ -1,10 +1,10 @@
-# PatPlacer OpenSource Extension
+# PatPlacer OpenSource Extension for OpenPlace
 
 This folder is a fully standalone Chrome extension build of PatPlacer.
 
 ## What this build does
 - Runs directly from local extension files.
-- Does not require online activation or patplacer.dev session validation.
+- Does not require online activation or session validation.
 - Does not require extension popup/menu interaction.
 - Injects local assets:
    - `styles/patplacer.css`
